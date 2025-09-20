@@ -1,0 +1,24 @@
+# core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# imbalanced data (fraud detection)
+imbalanced-learn
+
+# gradient boosting models
+lightgbm
+xgboost
+
+# statistical analysis
+statsmodels
+scipy
+
+# explainability
+shap
+
+# utils
+joblib
+tqdm
